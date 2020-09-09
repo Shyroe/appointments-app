@@ -1,0 +1,31 @@
+{
+  "appointments": [
+    {
+      "date": "15/02/2020",
+      "hour": "12:55",
+      "visitor_name": "Carlos Zeno",
+      "address": "Rua São João",
+      "address_number": "850",
+      "immobile_id": "2223",
+      "id": 1
+    },
+    {
+      "date": "12/09/2020",
+      "hour": "12:52",
+      "visitor_name": "Rodrigo Malaquias",
+      "address": "Rua Torre nova",
+      "address_number": "1518",
+      "immobile_id": "1617",
+      "id": 2
+    },
+    {
+      "date": "20/03/2021",
+      "hour": "10:15",
+      "visitor_name": "Joao Rosa",
+      "address": "Rua Rosalinda",
+      "address_number": "20",
+      "immobile_id": "6587",
+      "id": 3
+    }
+  ]
+}
